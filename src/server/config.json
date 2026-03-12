@@ -1,0 +1,11 @@
+{
+    "development": {
+        "serverPort": 8001,
+        "gamesocketPort": 8000
+    },
+    "production": {
+        "sslKeyFileName": "",
+        "sslCertFileName": "",
+        "gamesocketPort": 8000
+    }
+}

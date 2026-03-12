@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "ESNext",
+    "lib": ["DOM", "ES2020", "DOM.Iterable"],   // browser APIs
+    "types": [],                // webpack pulls its own types
+    "isolatedModules": true,
+    "resolveJsonModule": false,
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "sourceMap":false,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["src/client"]
+}

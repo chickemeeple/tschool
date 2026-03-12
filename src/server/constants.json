@@ -1,0 +1,4 @@
+{
+    "playerUidChars":20,
+    "playerUidValidChars":"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890_"
+}

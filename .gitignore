@@ -1,0 +1,10 @@
+*.js
+!webpack.config.js
+node_modules
+dist
+tsconfig.server.tsbuildinfo
+*.map
+*.d.ts
+*.sqlite
+build
+.env
